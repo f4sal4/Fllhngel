@@ -1,0 +1,80 @@
+
+
+
+
+token =NzM1OTk2MjMyODk1NDMwNzE3.XxoX6A.ORd8JfhnqrVid7vOFxg7GX0g1u8
+
+
+owner : 704336866094350381
+
+prefix = "="
+
+altprefix = "="
+
+// "Playing الكلام", "Listening to الكلام", or "Watching 
+// الكلام" , "straming الكلام"
+// اذا خليتها ديفولت راح يسوي بلاينق بالبرفكس و امر الهلب
+game = "DEFAULT"
+
+
+// الأخضر ONLINE
+
+// الأصفر IDLE
+
+// الأحمر DND
+
+// الاوفلاين INVISIBLE
+
+status = ONLINE
+
+// true
+
+songinstatus=false
+
+
+success = "??"نجاح في جلب الاغنيه //
+warning = "??"تحذير //
+error = "??"ايرور او غلط //
+loading = "?"تحميل //
+searching = "??"بحث //
+
+help = h
+play = p
+skip = s
+
+
+// اذا تبيه لما يعرض لك صوره الاغنيه في امر np or nowplaying
+ 
+// اذا ما تبي خليها
+
+//false
+
+npimages = true
+
+// يتثبت البوت في روم صوتي اذا ما تبي خليها 
+
+// false
+
+stayinchannel = true
+
+// الوقت الاقصى لتشغيل الاغنيه
+
+maxtime = 0
+
+
+// هنا تحط اسم الفولدر الي يشغل اغاني 
+
+playlistsfolder = "Playlists"
+
+
+//يخبر  اونر البوت في الخاص اذا في اصدار جدين 
+
+updatealerts=true
+
+
+
+lyrics.default = "A-Z Lyrics"
+
+
+
+eval=false
